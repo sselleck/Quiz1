@@ -187,6 +187,10 @@
 		E80714541E30062F00ECECE2 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				KnownAssetTags = (
+					answerLabel,
+					questionLabel,
+				);
 				LastSwiftUpdateCheck = 0820;
 				LastUpgradeCheck = 0820;
 				ORGANIZATIONNAME = "S. Selleck";
@@ -505,6 +509,7 @@
 				E80714861E30062F00ECECE2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E80714871E30062F00ECECE2 /* Build configuration list for PBXNativeTarget "Quiz1Tests" */ = {
 			isa = XCConfigurationList;
@@ -513,6 +518,7 @@
 				E80714891E30062F00ECECE2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E807148A1E30062F00ECECE2 /* Build configuration list for PBXNativeTarget "Quiz1UITests" */ = {
 			isa = XCConfigurationList;
@@ -521,6 +527,7 @@
 				E807148C1E30062F00ECECE2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
